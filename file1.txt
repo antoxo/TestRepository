@@ -1,3 +1,6 @@
 Hell world!
 Good evening! (from branch master)
 All 00000000000000000000
+Good bye!
+line from user2
+line from user1
